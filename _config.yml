@@ -14,15 +14,15 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Yoochan Lee
+  title: Vulnerability Researcher
+  address: Seoul, South Korea
+  email: yoochan1026#gmail.com
+  link: http://leeyoochan.github.io
   weibo:
-  github: ddbullfrog
+  github: leeyoochan
   linkedin: ddbullfrog
-  twitter: ddbullfrog
+  instagram: yoochan10
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
