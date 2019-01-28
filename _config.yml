@@ -58,18 +58,19 @@ author:
       duration: (2012 - 2018)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.Is am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   ctfHistory:
-    - ctf1:
+
+    - ctf9:
+      name: DEFCON 25 CTF
+      year: 2017
+      rank: 9th
+      teamname: RRR
+      location: Las Vegas, NV, USA
+     - ctf10:
       name: SECCON CTF
       year: 2016
       teamname: GYG
       rank: 12th
-      location: Tokyo, Japan
-    - ctf2:
-      name: DEFCON 25 CTF
-      year: 2017
-      rank: 9
-      teamname: GYG
-      location: Las Vegas, NV, USA
+      location: Tokyo, Japan     
 
   languages:
     - language1:
