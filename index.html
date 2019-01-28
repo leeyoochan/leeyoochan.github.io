@@ -89,6 +89,51 @@ layout: default
                     {% endfor %}
                 </ul>
             {% endif %}
+            {% if site.author.award %}
+                <h3 class="title with-icon"><span class="glyphicon glyphicon-plane cat-title"></span>CTF History</h3>
+                <ul class="timeline">
+                    {% for ctf in site.author.ctf %}
+                        <li class="timeline-inverted">
+                            {% if ctf.year %}
+                                <div class="timeline-badge info">{{ ctf.year }}</div>
+                            {% endif %}
+                            <div class="timeline-panel grid-block">
+                                <div class="timeline-heading">
+                                    {% if ctf.name %}
+                                        <h4 class="timeline-title">{{ ctf.name }} </h4>
+                                    {% endif %}
+                                    <p>
+                                        <small class="text-muted">
+                                            {% if ctf.rank %}
+                                                {{ ctf.rank }}
+                                            {% endif %}
+					    {% if ctf.teamname %}
+					    	{{ ctf.teamname}
+					    {% endif %}
+                                        </small>
+                                    </p>
+                                    <p>
+                                        <small class="text-muted">
+                                            {% if ctf.year %}
+                                                <i class="fa fa-calendar"></i> {{ ctf.year }} |
+                                            {% endif %}
+                                            {% if ctf.location %}
+                                                <i class="fa fa-map-marker"></i>  {{ ctf.location }}
+                                            {% endif %}
+                                        </small>
+                                    </p>
+                                </div>
+                                <div class="timeline-body">
+                                    {% if ctf.description %}
+                                        <p>{{ ctf.description }}</p>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+
         </div>
         <div class="col-md-4">
             {% if site.author.stackoverflow or site.author.programmingSkills %}
