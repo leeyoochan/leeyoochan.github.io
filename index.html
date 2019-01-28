@@ -89,10 +89,10 @@ layout: default
                     {% endfor %}
                 </ul>
             {% endif %}
-            {% if site.author.ctf %}
+            {% if site.author.ctfHistory %}
                 <h3 class="title with-icon"><span class="glyphicon glyphicon-plane cat-title"></span>CTF History</h3>
                 <ul class="timeline">
-                    {% for ctf in site.author.ctf %}
+                    {% for ctf in site.author.ctfHistory %}
                         <li class="timeline-inverted">
                             {% if ctf.year %}
                                 <div class="timeline-badge info">{{ ctf.year }}</div>
