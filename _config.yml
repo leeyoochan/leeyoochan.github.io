@@ -2,8 +2,8 @@
 title: Yoochan Lee
 description: Yoochan Lee' Profile
 favicon: /assets/img/avatar.JPG
-baseurl: https://leeyoochan.github.io/resumecard
-url: https://leeyoochan.github.io/resumecard
+baseurl: https://leeyoochan.github.io/
+url: https://leeyoochan.github.io/
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -23,7 +23,7 @@ author:
   github: leeyoochan
   linkedin: 
   twitter: 
-  gavatar: /assets/img/avatar.JPG
+  gavatar: /assets/img/profile.jpeg
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
