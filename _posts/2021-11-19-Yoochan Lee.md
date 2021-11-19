@@ -30,7 +30,7 @@ BlackHat USA 2020
 - The 11th place in DEFCON 28 CTF (Star-Bugs), Las Vegas, USA, Aug. 2020  
 - The 15th place in DEFCON 27 CTF (CGC), Las Vegas, USA, Aug. 2019  
 - The 11th place in Seccon CTF (GYG), Tokyo, Japan, Dec. 2018  
-- The 1st place in Cyber Conflict Excercise and Contest 2018 (GYG), Seoul, South Korea, Oct. 2018  
+- The 1st place in Cyber Conflict Excercise and Contest 2018 (GYG), Jeju, South Korea, Oct. 2018  
 - The 13th place in DEFCON 26 CTF (C.G.K.S), Las Vegas, USA, Aug. 2018  
 - The 8th place in Midnight Sun CTF, Stockholm, Sweden, June. 2018  
 - The 9th place in Codegate CTF (GYG), Seoul, South Korea, Apr. 2018  
