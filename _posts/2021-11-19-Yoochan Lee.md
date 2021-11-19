@@ -12,4 +12,4 @@ I am a Ph.D student in Department of Electrical & Computer Engineering at SNU. M
 [2] Exploiting Kernel Races Through Taming Thread Interleaving  
 &nbsp;&nbsp;&nbsp;Yoochan Lee, Byoungyoung Lee, Changwoo Min  
 &nbsp;&nbsp;&nbsp;BlackHat USA 2020  
-&nbsp;&nbsp;&nbsp;[Video](https://www.youtube.com/watch?v=5M3WhLVLCzs&ab_channel=BlackHat)  
+&nbsp;&nbsp;&nbsp;[\[Video\]](https://www.youtube.com/watch?v=5M3WhLVLCzs&ab_channel=BlackHat)  
