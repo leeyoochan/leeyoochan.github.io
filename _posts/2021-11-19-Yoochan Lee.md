@@ -30,10 +30,9 @@ BlackHat USA 2020
 
 ## Talks
 - SCADA Vulnerability Analysis and Automated Tools Making  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The 16th Hwarangdae International Symposium 
-- Vulnerabilities case and Analysis Method in SCADA system
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+- Vulnerabilities case and Analysis Method in SCADA system  
 The 22nd NETSEC-KR 
 
 ## Honor & Award
