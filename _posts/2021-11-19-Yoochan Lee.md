@@ -46,7 +46,7 @@ The 16th Hwarangdae International Symposium 2015
 - The 5th place in Cyber Conflict Excercise and Contest 2017 (GYG), Seoul, South Korea, Nov. 2017  
 - The 3rd place in Belluminar POC 2017, Seoul, South Korea, Nov. 2017  
 - The 9th place in DEFCON 25 CTF (RRR), Las Vegas, USA, Aug. 2017  
-- The Encouragement Award in Samsung CTF 2017, Seoul, South Korea, Aug. 2017  
+- Encouragement Award in Samsung CTF 2017, Seoul, South Korea, Aug. 2017  
 - The 6th place in Nuit Du Hack 2017 (GYG), Paris, France, June. 2017  
 - The 12th place in Seccon CTF 2017 (GYG), Tokyo, Japan, Jan. 2017  
 - The 1st place in Secuinside Capture The Bug (Minionz), Seoul, South Korea, July. 2016  
