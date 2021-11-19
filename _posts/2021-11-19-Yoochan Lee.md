@@ -5,7 +5,7 @@
 I am a Ph.D student in Department of Electrical & Computer Engineering at SNU. My advisor is Dr. Byoungyoung Lee ([@lifeasageek](https://lifeasageek.github.io/)) & Research Interest is Software Security.
 
 ## Publication
-[1] EXPRACE: Exploiting Kernel Races through Raising Interrupts  
+[1] ExpRace: Exploiting Kernel Races through Raising Interrupts  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Yoochan Lee, Changwoo Min, Byoungyoung Lee  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
