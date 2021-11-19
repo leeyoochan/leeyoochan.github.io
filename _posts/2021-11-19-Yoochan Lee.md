@@ -29,7 +29,7 @@ BlackHat USA 2020
 | [Slide](https://leeyoochan.github.io/slides/exprace-lee-blackhat20-slides.pdf)\]
 
 ## Talks
-- Vulnerabilities Case and Analysis Method in SCADA system  
+- Vulnerabilities Cases and Analysis Method in SCADA system  
 The 22nd NETSEC-KR 2016   
 - SCADA Vulnerability Analysis and Automated Tools Making  
 The 16th Hwarangdae International Symposium 2015  
