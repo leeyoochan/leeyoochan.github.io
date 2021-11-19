@@ -23,8 +23,9 @@ USENIX Security Symposium (Security) 2021
 
 
 ## Honor & Award
-- The Encouragement Award in Samsung Capture The Flag
-- Nuit Du Hack 2017 (GYG)
-- The 12th place in Seccon Capture The Flag 2016 (GYG)
-- The 1st place in Secuinside Capture The Bug 2016 (Minionz)
-- The 6th place in Codegate Capture The Flag 2016 (teambob)
+- The 9th place in DEFCON 25 Capture The Flag (RRR), Las Vegas, USA, Aug. 2017
+- The Encouragement Award in Samsung Capture The Flag 2017, Seoul, South Korea, Aug, 2017
+- The 6th place in Nuit Du Hack 2017 (GYG), Paris, France, June, 2017
+- The 12th place in Seccon Capture The Flag 2017 (GYG), 
+- The 1st place in Secuinside Capture The Bug 2016 (Minionz), Seoul, South Korea, July, 2016
+- The 6th place in Codegate Capture The Flag 2016 (teambob), Seoul, South Korea, May, 2016
