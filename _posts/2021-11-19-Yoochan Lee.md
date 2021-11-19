@@ -23,9 +23,16 @@ USENIX Security Symposium (Security) 2021
 
 
 ## Honor & Award
-- The 9th place in DEFCON 25 Capture The Flag (RRR), Las Vegas, USA, Aug. 2017
-- The Encouragement Award in Samsung Capture The Flag 2017, Seoul, South Korea, Aug, 2017
+- The 11th place in Seccon CTF (GYG), Tokyo, Japan, Dec, 2018
+- The 1st place in Cyber Conflict Excercise and Contest 2018 (GYG), Seoul, South Korea, Oct, 2018
+- The 13th place in DEFCON 26 CTF (C.G.K.S), Las Vegas, USA, Aug, 2018
+- The 8th place in Midnight Sun CTF, Stockholm, Sweden, June, 2018 
+- The 9th place in Codegate CTF (GYG), Seoul, South Korea, Apr, 2018
+- The 5th place in Cyber Conflict Excercise and Contest 2017 (GYG), Seoul, South Korea, Nov, 2017
+- The 3rd place in Belluminar POC 2017, Seoul, South Korea, Nov, 2017
+- The 9th place in DEFCON 25 CTF (RRR), Las Vegas, USA, Aug, 2017
+- The Encouragement Award in Samsung CTF 2017, Seoul, South Korea, Aug, 2017
 - The 6th place in Nuit Du Hack 2017 (GYG), Paris, France, June, 2017
-- The 12th place in Seccon Capture The Flag 2017 (GYG), 
-- The 1st place in Secuinside Capture The Bug 2016 (Minionz), Seoul, South Korea, July, 2016
-- The 6th place in Codegate Capture The Flag 2016 (teambob), Seoul, South Korea, May, 2016
+- The 12th place in Seccon CTF 2017 (GYG), Tokyo, Japan, Jan, 2017
+- The 1st place in Secuinside Capture The Bug (Minionz), Seoul, South Korea, July, 2016
+- The 6th place in Codegate CTF (teambob), Seoul, South Korea, May, 2016
