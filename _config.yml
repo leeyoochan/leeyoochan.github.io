@@ -32,17 +32,10 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Yoochan Lee
+  url: https://github.com/leeyoochan
+  email: yoochan10@snu.ac.kr
 
 # Custom vars
 version: 3.0.0
 
-# Navbar page list
-nav:
-  - title: Blog
-    url: /archive
-
-  - title: About
-    url: /about
