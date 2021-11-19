@@ -21,9 +21,6 @@ USENIX Security Symposium (Security) 2021
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BlackHat USA 2020  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\[Video\]](https://www.youtube.com/watch?v=5M3WhLVLCzs&ab_channel=BlackHat)  
 
-## Talks
-- SCADA Vulnerability Analysis and Automated Tools Making
-
 ## Honor & Award
 - The 4th place in DEFCON 29 CTF (StarBugs), Las Vegas, USA, Aug. 2021  
 - The 11th place in DEFCON 28 CTF (Star-Bugs), Las Vegas, USA, Aug. 2020  
