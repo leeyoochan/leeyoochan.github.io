@@ -7,7 +7,7 @@ email : [yoochan10@snu.ac.kr](yoochan10@snu.ac.kr)
 
 ## Shorts Bio
 
-I am a Ph.D student in Department of Electrical & Computer Engineering at SNU. My advisor is Dr. Byoungyoung Lee ([@lifeasageek](https://lifeasageek.github.io/)) & Research Interest is Software Security.
+I am a Ph.D student in Department of Electrical & Computer Engineering at SNU. My advisor is Prof. Byoungyoung Lee ([@lifeasageek](https://lifeasageek.github.io/)) & Research Interest is Software Security.
 
 ## Publication
 [1] ExpRace: Exploiting Kernel Races through Raising Interrupts  
