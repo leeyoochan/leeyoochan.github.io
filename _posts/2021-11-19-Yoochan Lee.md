@@ -54,9 +54,9 @@ The 16th Hwarangdae International Symposium 2015
 - Top 10 in Best Of the Best, Mar. 2016 
 
 ## Reported Vulnerabilities and Exploits (selected)
-- CVE-2017-7014 : Kernel Code Execution in macOS  
-- CVE-2018-4084 : Information Leakage in macOS  
-- CVE-2018-4338 : Information Leakage in macOS  
 - CVE-2018-4417 : Information Leakage in macOS  
+- CVE-2018-4338 : Information Leakage in macOS  
+- CVE-2018-4084 : Information Leakage in macOS  
+- CVE-2017-7014 : Kernel Code Execution in macOS  
 
 
