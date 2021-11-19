@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Yoochan Lee @ SNU</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-11-19T19:32:39+09:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Yoochan Lee</name>
+   <email>yoochan10@snu.ac.kr</email>
+ </author>
+
+ 
+ <entry>
+   <title>Yoochan lee</title>
+   <link href="http://localhost:4000/2021/11/19/Yoochan-Lee/"/>
+   <updated>2021-11-19T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2021/11/19/Yoochan Lee</id>
+   <content type="html">&lt;h1 id=&quot;yoochan-lee&quot;&gt;Yoochan Lee&lt;/h1&gt;
+
+&lt;h2 id=&quot;shorts-bio&quot;&gt;Shorts Bio&lt;/h2&gt;
+
+&lt;p&gt;I am a Ph.D student in Department of Electrical &amp;amp; Computer Engineering at SNU. My advisor is Dr. Byoungyoung Lee (&lt;a href=&quot;https://lifeasageek.github.io/&quot;&gt;@lifeasageek&lt;/a&gt;) &amp;amp; Research Interest is Software Security.&lt;/p&gt;
+
+&lt;h2 id=&quot;publication&quot;&gt;Publication&lt;/h2&gt;
+&lt;p&gt;[1] EXPRACE: Exploiting Kernel Races through Raising Interrupts&lt;br /&gt;
+     
+Yoochan Lee, Changwoo Min, Byoungyoung Lee&lt;br /&gt;
+     
+USENIX Security Symposium (Security) 2021&lt;br /&gt;
+     
+&lt;a href=&quot;https://leeyoochan.github.io/paper/yoochan-exprace.pdf&quot;&gt;[Paper&lt;/a&gt; 
+| &lt;a href=&quot;https://leeyoochan.github.io/slides/yoochan-exprace-slides.pdf&quot;&gt;Slide]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2] Exploiting Kernel Races Through Taming Thread Interleaving&lt;br /&gt;
+     
+Yoochan Lee, Byoungyoung Lee, Changwoo Min&lt;br /&gt;
+     
+BlackHat USA 2020&lt;br /&gt;
+     
+&lt;a href=&quot;https://www.youtube.com/watch?v=5M3WhLVLCzs&amp;amp;ab_channel=BlackHat&quot;&gt;[Video&lt;/a&gt;
+| &lt;a href=&quot;https://leeyoochan.github.io/slides/exprace-lee-blackhat20-slides.pdf&quot;&gt;Slide]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;honor--award&quot;&gt;Honor &amp;amp; Award&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;The 4th place in DEFCON 29 CTF (StarBugs), Las Vegas, USA, Aug. 2021&lt;/li&gt;
+  &lt;li&gt;The 11th place in DEFCON 28 CTF (Star-Bugs), Las Vegas, USA, Aug. 2020&lt;/li&gt;
+  &lt;li&gt;The 15th place in DEFCON 27 CTF (CGC), Las Vegas, USA, Aug. 2019&lt;/li&gt;
+  &lt;li&gt;The 11th place in Seccon CTF (GYG), Tokyo, Japan, Dec. 2018&lt;/li&gt;
+  &lt;li&gt;The 1st place in Cyber Conflict Excercise and Contest 2018 (GYG), Jeju, South Korea, Oct. 2018&lt;/li&gt;
+  &lt;li&gt;The 13th place in DEFCON 26 CTF (C.G.K.S), Las Vegas, USA, Aug. 2018&lt;/li&gt;
+  &lt;li&gt;The 8th place in Midnight Sun CTF, Stockholm, Sweden, June. 2018&lt;/li&gt;
+  &lt;li&gt;The 9th place in Codegate CTF (GYG), Seoul, South Korea, Apr. 2018&lt;/li&gt;
+  &lt;li&gt;The 5th place in Cyber Conflict Excercise and Contest 2017 (GYG), Seoul, South Korea, Nov. 2017&lt;/li&gt;
+  &lt;li&gt;The 3rd place in Belluminar POC 2017, Seoul, South Korea, Nov. 2017&lt;/li&gt;
+  &lt;li&gt;The 9th place in DEFCON 25 CTF (RRR), Las Vegas, USA, Aug. 2017&lt;/li&gt;
+  &lt;li&gt;The Encouragement Award in Samsung CTF 2017, Seoul, South Korea, Aug. 2017&lt;/li&gt;
+  &lt;li&gt;The 6th place in Nuit Du Hack 2017 (GYG), Paris, France, June. 2017&lt;/li&gt;
+  &lt;li&gt;The 12th place in Seccon CTF 2017 (GYG), Tokyo, Japan, Jan. 2017&lt;/li&gt;
+  &lt;li&gt;The 1st place in Secuinside Capture The Bug (Minionz), Seoul, South Korea, July. 2016&lt;/li&gt;
+  &lt;li&gt;The 6th place in Codegate CTF (teambob), Seoul, South Korea, May. 2016&lt;/li&gt;
+  &lt;li&gt;Top 10 in Best Of the Best, Mar. 2016&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reported-vulnerabilities-and-exploits-selected&quot;&gt;Reported Vulnerabilities and Exploits (selected)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;CVE-2017-7014 : Kernel Code Execution in macOS&lt;/li&gt;
+  &lt;li&gt;CVE-2018-4084 : Information Leakage in macOS&lt;/li&gt;
+  &lt;li&gt;CVE-2018-4338 : Information Leakage in macOS&lt;/li&gt;
+  &lt;li&gt;CVE-2018-4417 : Information Leakage in macOS&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
