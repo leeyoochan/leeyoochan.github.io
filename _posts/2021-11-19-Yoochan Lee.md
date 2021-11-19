@@ -3,7 +3,7 @@ Department of Electrical and Computer Engineering
 Seoul National University (SNU)  
 [CompSec Lab](https://compsec.snu.ac.kr/)
 [Google Scholar](https://scholar.google.com/citations?user=n2L6NXEAAAAJ&hl=ko&oi=ao)  
-[https://github.com/leeyoochan](https://github.com/leeyoochan)  
+[Github](https://github.com/leeyoochan)  
 email : [yoochan10@snu.ac.kr](yoochan10@snu.ac.kr)
 
 ## Shorts Bio
