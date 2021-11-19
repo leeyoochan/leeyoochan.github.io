@@ -22,7 +22,7 @@ Yoochan Lee, Byoungyoung Lee, Changwoo Min
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 BlackHat USA 2020  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[\[Video](https://www.youtube.com/watch?v=5M3WhLVLCzs&ab_channel=BlackHat)  
+[\[Video](https://www.youtube.com/watch?v=5M3WhLVLCzs&ab_channel=BlackHat)
 | [Slide\]](https://leeyoochan.github.io/slides/exprace-lee-blackhat20-slides.pdf)
 
 ## Honor & Award
