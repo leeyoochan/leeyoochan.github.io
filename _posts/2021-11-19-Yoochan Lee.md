@@ -1,7 +1,7 @@
 # Yoochan Lee
 Department of Electrical and Computer Engineering  
 Seoul National University (SNU)  
-CompSec Lab  
+[CompSec Lab](https://compsec.snu.ac.kr/)  
 [https://github.com/leeyoochan](https://github.com/leeyoochan)
 email : [yoochan10@snu.ac.kr](yoochan10@snu.ac.kr)
 
