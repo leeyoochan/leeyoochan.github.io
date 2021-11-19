@@ -23,6 +23,9 @@ USENIX Security Symposium (Security) 2021
 
 
 ## Honor & Award
+- The 4th place in DEFCON 29 CTF (StarBugs), Las Vegas, USA, Aug, 2021  
+- The 11th place in DEFCON 28 CTF (Star-Bugs), Las Vegas, USA, Aug, 2020  
+- The 15th place in DEFCON 27 CTF (CGC), Las Vegas, USA, Aug, 2019  
 - The 11th place in Seccon CTF (GYG), Tokyo, Japan, Dec, 2018  
 - The 1st place in Cyber Conflict Excercise and Contest 2018 (GYG), Seoul, South Korea, Oct, 2018  
 - The 13th place in DEFCON 26 CTF (C.G.K.S), Las Vegas, USA, Aug, 2018  
@@ -38,7 +41,7 @@ USENIX Security Symposium (Security) 2021
 - The 6th place in Codegate CTF (teambob), Seoul, South Korea, May, 2016  
 
 ## Reported Vulnerabilities and Exploits (selected)
-- CVE-2017-7014 : Code Execution in macOS Sierra 10.12.5  
+- CVE-2017-7014 : Kernel Code Execution in macOS  
 - CVE-2018-4084 : Information Leakage in macOS  
 - CVE-2018-4338 : Information Leakage in macOS  
 - CVE-2018-4417 : Information Leakage in macOS  
