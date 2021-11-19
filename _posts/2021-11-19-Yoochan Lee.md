@@ -29,11 +29,10 @@ BlackHat USA 2020
 | [Slide](https://leeyoochan.github.io/slides/exprace-lee-blackhat20-slides.pdf)\]
 
 ## Talks
-- SCADA Vulnerability Analysis and Automated Tools Making  
-The 16th Hwarangdae International Symposium 
-
 - Vulnerabilities case and Analysis Method in SCADA system  
-The 22nd NETSEC-KR 
+The 22nd NETSEC-KR  
+- SCADA Vulnerability Analysis and Automated Tools Making  
+The 16th Hwarangdae International Symposium  
 
 ## Honor & Award
 - The 4th place in DEFCON 29 CTF (StarBugs), Las Vegas, USA, Aug. 2021  
