@@ -6,8 +6,13 @@ I am a Ph.D student in Department of Electrical & Computer Engineering at SNU. M
 
 ## Publication
 [1] EXPRACE: Exploiting Kernel Races through Raising Interrupts  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yoochan Lee, Changwoo Min, Byoungyoung Lee  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USENIX Security Symposium (Security) 2021  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Yoochan Lee, Changwoo Min, Byoungyoung Lee  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+USENIX Security Symposium (Security) 2021  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[\[paper](https://leeyoochan.github.io/paper/yoochan-exprace.pdf)
+[|slide](https://leeyoochan.github.io/paper/yoochan-exprace-slides.pdf)  
 
 
 
