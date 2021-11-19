@@ -37,7 +37,8 @@ USENIX Security Symposium (Security) 2021
 - The 6th place in Nuit Du Hack 2017 (GYG), Paris, France, June. 2017  
 - The 12th place in Seccon CTF 2017 (GYG), Tokyo, Japan, Jan. 2017  
 - The 1st place in Secuinside Capture The Bug (Minionz), Seoul, South Korea, July. 2016  
-- The 6th place in Codegate CTF (teambob), Seoul, South Korea, May. 2016  
+- The 6th place in Codegate CTF (teambob), Seoul, South Korea, May. 2016 
+- Top 10 in Best Of the Best, Mar. 2016 
 
 ## Reported Vulnerabilities and Exploits (selected)
 - CVE-2017-7014 : Kernel Code Execution in macOS  
