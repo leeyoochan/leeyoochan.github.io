@@ -1,4 +1,4 @@
-# Yoochan Lee2
+# Yoochan Lee
 
 ## Shorts Bio
 
