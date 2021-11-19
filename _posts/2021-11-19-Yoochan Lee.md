@@ -14,6 +14,7 @@ I am a Ph.D student in Department of Electrical & Computer Engineering at SNU. M
 Seoul National University, Seoul, South Korea (Sep 2019 ~ Current)  
 - M.S/Ph.D. Course in Electrical and Computer Engineering  
 - Advisor: Prof. Byoungyoung Lee  
+
 Hanyang University, Seoul, South Korea (Mar 2012 ~ Feb 2018)  
 - B.S. Computer Science Engineering
 
