@@ -12,7 +12,7 @@ Yoochan Lee, Changwoo Min, Byoungyoung Lee
 USENIX Security Symposium (Security) 2021  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [\[paper](https://leeyoochan.github.io/paper/yoochan-exprace.pdf) 
-[| slide\]](https://leeyoochan.github.io/paper/yoochan-exprace-slides.pdf)  
+| [slide\]](https://leeyoochan.github.io/paper/yoochan-exprace-slides.pdf)  
 
 
 
