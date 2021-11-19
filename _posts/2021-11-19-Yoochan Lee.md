@@ -12,7 +12,7 @@ I am a Ph.D student in Department of Electrical & Computer Engineering at SNU. M
 ## Publication
 [1] ExpRace: Exploiting Kernel Races through Raising Interrupts  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Yoochan Lee, Changwoo Min, Byoungyoung Lee  
+**Yoochan Lee**, Changwoo Min, Byoungyoung Lee  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 USENIX Security Symposium (Security) 2021  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,7 +23,7 @@ USENIX Security Symposium (Security) 2021
 
 [2] Exploiting Kernel Races Through Taming Thread Interleaving  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Yoochan Lee, Byoungyoung Lee, Changwoo Min  
+**Yoochan Lee**, Byoungyoung Lee, Changwoo Min  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 BlackHat USA 2020  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
