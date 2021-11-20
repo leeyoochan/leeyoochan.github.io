@@ -58,7 +58,7 @@ The 22nd NETSEC-KR 2016
 - The 12th place in Seccon CTF 2017 (GYG), Tokyo, Japan, Jan. 2017  
 - The 1st place in Secuinside Capture The Bug (Minionz), Seoul, South Korea, July. 2016  
 - The 6th place in Codegate CTF (teambob), Seoul, South Korea, May. 2016 
-- Top 10 in Best Of the Best, Mar. 2016 
+- Top 10 in Best Of the Best 4th, Mar. 2016 
 
 ## Reported Vulnerabilities and Exploits (selected)
 - CVE-2018-4417 : Information Leakage in macOS  
