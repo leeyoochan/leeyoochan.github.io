@@ -61,6 +61,7 @@ The 22nd NETSEC-KR, Seoul, South Korea, Apr. 2016
 - Top 10 in Best Of the Best 4th, Mar. 2016 
 
 ## Reported Vulnerabilities and Exploits (selected)
+- Solidly Informational $10K
 - CVE-2018-4417 : Information Leakage in macOS  
 - CVE-2018-4338 : Information Leakage in macOS  
 - CVE-2018-4084 : Information Leakage in macOS  
