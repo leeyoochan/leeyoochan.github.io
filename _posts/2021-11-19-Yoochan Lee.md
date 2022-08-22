@@ -19,7 +19,14 @@ Hanyang University, Seoul, South Korea (Mar 2012 ~ Feb 2018)
 - B.S. Computer Science Engineering
 
 ## Publication
-[1] ExpRace: Exploiting Kernel Races through Raising Interrupts  
+[1] Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique (to appear)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Yoochan Lee**, Jinhan Kwak, Junesoo Kang, Yuseok Jeon, and Byoungyoung Lee
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+USENIX Security Symposium (Security) 2023  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+[2] ExpRace: Exploiting Kernel Races through Raising Interrupts  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Yoochan Lee**, Changwoo Min, Byoungyoung Lee  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +35,7 @@ USENIX Security Symposium (Security) 2021
 \[[Paper](https://leeyoochan.github.io/paper/yoochan-exprace.pdf) 
 | [Slide](https://leeyoochan.github.io/slides/yoochan-exprace-slides.pdf)\] 
 
-[2] Exploiting Kernel Races Through Taming Thread Interleaving  
+[3] Exploiting Kernel Races Through Taming Thread Interleaving  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Yoochan Lee**, Byoungyoung Lee, Changwoo Min  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -61,6 +68,7 @@ The 22nd NETSEC-KR, Seoul, South Korea, Apr. 2016
 - Top 10 in Best Of the Best 4th, Mar. 2016 
 
 ## Reported Vulnerabilities and Exploits (selected)
+- macOS - Kernel heap overflow leads to Local Privilege Escalation ($34K)
 - Solidly - Drain tremendous funds using invalid type casting ($10K)
 - CVE-2018-4417 : Information Leakage in macOS  
 - CVE-2018-4338 : Information Leakage in macOS  
