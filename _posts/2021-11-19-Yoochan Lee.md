@@ -19,13 +19,11 @@ Hanyang University, Seoul, South Korea (Mar 2012 ~ Feb 2018)
 - B.S. Computer Science Engineering
 
 ## Publication
-[1] Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique (to appear) 
-
+[1] Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique (to appear)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Yoochan Lee**, Jinhan Kwak, Junesoo Kang, Yuseok Jeon, and Byoungyoung Lee  
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-USENIX Security Symposium (Security) 2023  
+USENIX Security Symposium (Security) 2023   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 [2] ExpRace: Exploiting Kernel Races through Raising Interrupts  
