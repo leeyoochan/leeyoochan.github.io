@@ -49,6 +49,7 @@ BlackHat USA 2020
 The 22nd NETSEC-KR, Seoul, South Korea, Apr. 2016   
 
 ## Honor & Award
+- The 3rd place in DEFCON 39 CTF (StarBugs), Las Vegas, USA, Aug. 2022   
 - The 4th place in DEFCON 29 CTF (StarBugs), Las Vegas, USA, Aug. 2021  
 - The 11th place in DEFCON 28 CTF (Star-Bugs), Las Vegas, USA, Aug. 2020  
 - The 15th place in DEFCON 27 CTF (CGC), Las Vegas, USA, Aug. 2019  
