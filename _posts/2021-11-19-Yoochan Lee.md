@@ -19,14 +19,21 @@ Hanyang University, Seoul, South Korea (Mar 2012 ~ Feb 2018)
 - B.S. Computer Science Engineering
 
 ## Publication
-[1] Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique (to appear)  
+[1] Diagnosing Kernel Concurrency Failures with AITIA (to appear)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Dae R. Jeong, Minkyu Jung, **Yoochan Lee**, Byoungyoung Lee, Insik Shin, and Youngjin Kwon    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ACM EuroSys Conference (EuroSys) 2023    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+[2] Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique (to appear)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Yoochan Lee**, Jinhan Kwak, Junesoo Kang, Yuseok Jeon, and Byoungyoung Lee  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 USENIX Security Symposium (Security) 2023   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[2] ExpRace: Exploiting Kernel Races through Raising Interrupts  
+[3] ExpRace: Exploiting Kernel Races through Raising Interrupts  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Yoochan Lee**, Changwoo Min, Byoungyoung Lee  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,7 +42,7 @@ USENIX Security Symposium (Security) 2021
 \[[Paper](https://leeyoochan.github.io/paper/yoochan-exprace.pdf) 
 | [Slide](https://leeyoochan.github.io/slides/yoochan-exprace-slides.pdf)\] 
 
-[3] Exploiting Kernel Races Through Taming Thread Interleaving  
+[4] Exploiting Kernel Races Through Taming Thread Interleaving  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Yoochan Lee**, Byoungyoung Lee, Changwoo Min  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
