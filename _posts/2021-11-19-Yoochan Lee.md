@@ -41,7 +41,7 @@ USENIX Security Symposium (Security) 2023
 BlackHat Europe 2022
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[3] ExpRace: Exploiting Kernel Races through Raising Interrupts  
+[4] ExpRace: Exploiting Kernel Races through Raising Interrupts  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Yoochan Lee**, Changwoo Min, Byoungyoung Lee  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,7 +50,7 @@ USENIX Security Symposium (Security) 2021
 \[[Paper](https://leeyoochan.github.io/paper/yoochan-exprace.pdf) 
 | [Slide](https://leeyoochan.github.io/slides/yoochan-exprace-slides.pdf)\] 
 
-[4] Exploiting Kernel Races Through Taming Thread Interleaving  
+[5] Exploiting Kernel Races Through Taming Thread Interleaving  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Yoochan Lee**, Byoungyoung Lee, Changwoo Min  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
