@@ -19,6 +19,7 @@ Hanyang University, Seoul, South Korea (Mar 2012 ~ Feb 2018)
 - B.S. Computer Science Engineering
 
 ## Publication
+
 [1] Diagnosing Kernel Concurrency Failures with AITIA (to appear)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Dae R. Jeong, Minkyu Jung, **Yoochan Lee**, Byoungyoung Lee, Insik Shin, and Youngjin Kwon    
@@ -31,6 +32,13 @@ ACM EuroSys Conference (EuroSys) 2023
 **Yoochan Lee**, Jinhan Kwak, Junesoo Kang, Yuseok Jeon, and Byoungyoung Lee  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 USENIX Security Symposium (Security) 2023   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+[3] Perfect Spray: A Journey From Finding a New Type of Logical Flaw at Linux Kernel To Developing a New Heap Exploitation Technique (to appear)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Yoochan Lee**, Jinhan Kwak, Junesoo Kang, Yuseok Jeon, and Byoungyoung Lee  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+BlackHat Europe 2022
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 [3] ExpRace: Exploiting Kernel Races through Raising Interrupts  
