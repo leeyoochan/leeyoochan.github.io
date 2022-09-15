@@ -34,8 +34,8 @@ ACM EuroSys Conference (EuroSys) 2023
 USENIX Security Symposium (Security) 2023   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[3] Perfect Spray: A Journey From Finding a New Type of Logical Flaw at Linux Kernel To Developing a New Heap Exploitation Technique (to appear)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[3] Perfect Spray: A Journey From Finding a New Type of Logical Flaw at Linux Kernel To Developing a New Heap Exploitation Technique (to appear)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 **Yoochan Lee**, Jinhan Kwak, Junesoo Kang, Yuseok Jeon, and Byoungyoung Lee  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 BlackHat Europe 2022
