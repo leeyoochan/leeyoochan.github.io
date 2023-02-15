@@ -1,0 +1,115 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Suhwan Song
+    - name: Date of Birth
+      value: 8th August 1996
+    - name: Languages
+      value: Korean, English
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Ph.D Sofware Engineerning Intern
+      institution: Google, San Francisco, CA
+      year: 2022
+      description:
+        - Productionize a tool to automatically find rendering regression bugs in Chrome before users are affected. 
+
+- title: Publication
+  type: html
+  contents: papers.html  
+
+- title: Education
+  type: time_table
+  contents:
+    - title: M.S/Ph.D. Course in Electrical and Computer Engineering
+      institution: Seoul National University, Seoul, South Korea
+      year: 2019 - Now 
+
+    - title: B.S. Electrical and Computer Engineering
+      institution: Pusan National University, Pusan, South Korea
+      year: 2015 - 2019
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - Vulnerability Bounty Award by Firefox, Mozilla (CVE-2022-45420, $500)
+        - Vulnerability Bounty Award by Firefox, Mozilla (CVE-2022-28286, $500)
+        - Vulnerability Bounty Award by Chrome, Google (CVE-2022-4025, $3,000)
+    - year: 2017
+      items: 
+        - Pusan National University Visiting Program (The University of Western Australia) 
+    - year: 2015 - 2019
+      items: 
+        - Undergraduate study scholarship
+
+- title: Reported Bugs
+  type: nested_list
+  contents:
+    - title: Chrome Render-update Bug
+      items:
+        - "#1154662: CSS \"border-bottom: dashed;\" of <data> is improperly rendered."
+        - "#1162740: The text in dl is rendered on wrong position."
+        - "#1163006: The details with CSS \"columns and position\" is rendered before img."
+        - "#1163031: The height of dd is higher than expected after executing Javascript."
+        - "#1164643: The position of h4 becomes wrong due to the style \"position: fixed\""
+        - "#1364376: Empty span still has height after removing border"
+        - "#1365244: The location of dialog becomes incorrect after removing backdrop-filter."
+        - "#1365252: The width of th is not 3 after removing writing-mode."
+        - "#1365255: The border line of fieldset is not updated after removing offset-path."
+        - "#1365746: The height of fieldset does not decrease after removing margin-right."
+        - "#1366233: The shape of q is incorrect after removing font-weight"
+        - "#1366280: The height of th is incorrect after removing margin-left."
+        - "#1370936: The focus line is wrong after removing -webkit-border-end."
+        - "#1370962: The size of table becomes incorrect after removing @font-face."
+        - "#1370987: The quote is on the wrong position after removing span element."
+        - "#1371003: The location of text is incorrect after moving summary element."
+
+    - title: Firefox Render-update Bug
+      items:
+        - "#1680232: {inc} When frame is reconstructed for an element alongside a `display:table-caption` element, their box-tree order gets swapped"
+        - "#1683814: When changing tagname of th, the size of dir with CSS \"writing-mode: vertical-rl;\" and \"padding\" increases."
+        - "#1683820: dialog is rendered on the wrong position when using \"filter: brightness()\"."
+        - "#1684290: The position of <label> becomes wrong due to CSS \"writing-mode: tb-rl\"."
+
+    - title: Chrome Rendering Bug
+      items:
+        - "#1099234: Wrong clip of filtered element with clip-path and border-radius."
+        - "#1100224: Renders square figure when using CSS webkit-clip-path: circle"
+        - "#1100308: Named page inserts column break."
+        - "#1100321: CSS column-width and height draw html figures differently."
+        - "#1102005: Empty flexbox gets infinite height."
+        - "#1102037: CSS mix-blend-mode makes elements disappear."
+        - "#1102235: CSS webkit-mask-box-image makes html elements disappear."
+        - "#1103162: Text in HTML tt tag is not shown."
+        - "#1107350: The location of dialog is drawn differently."
+        - "#1119312: input[type=file] is rendered differently."
+        - "#1121082: CSS \"text-decoration-line: overline\" is not working."
+        - "#1121956: CSS \"webkit-backface-visibility: hidden\" is not working."
+        - "#1122021: The background color is painted outside of span."
+        - "#1123445: CSS \"-webkit-box-reflect\" is not working properly under multicol."
+        - "#1150783: CSS \"isolation: isolate\" makes ruby disappear on Chromium 87."
+        - "#1152691: circle with CSS \"will-change: top;\" in svg makes \"-webkit-mask-box-image\" wrong."
+        - "#1153409: select is rendered on wrong position when using CSS \"-webkit-min-logical-height\""
+        - "#1154058: rendered on wrong position when using CSS \"display: -webkit-inline-box;\""
+        - "#1164339: The CSS \"-webkit-columns\" makes the content disappear on the screen."
+        - "#1164652: The margin does not properly applied to li."
+        - "#1226558: Image is not drawn when css \"content\" is used in SubmitSubmit\"."
+        - "#1229662: mix-blend-mode: saturation is not working when the height of iframe is small."
+        - "#1229902: textarea is reflected twice when using -webkit-box-reflect."
+        - "#1231397: The image is rendered slightly longer when img has border attribute."
+        - "#1232944: Text in svg is shown when svg is in option element."
+        - "#1237054: Text is drawn outside of button when setting -webkit-logical-width as 0px."
+        - "#1237253: The position of marker is slightly higher when using list-style-image."
+        - "#1237352: The text is not drawn when using CSS \"will-change: -webkit-transform-style\"."
+        - "#1240854: The meter is drawn in the front incorrectly."
+        - "#1240856: The position of the dialog is wrong and it is drawn a little above."
+        - "#1241345: dialog is left-aligned when using CSS \"-webkit-perspective: 0px\"."
+        - "#1241356: The position of br is incorrect when using CSS \"writing-mode: vertical-lr;\"."
+        - "#1241436: Text in dt is not visible when using CSS \"will-change: -webkit-perspective;\""
+        - "#1242851: The text in time is differently rendered."

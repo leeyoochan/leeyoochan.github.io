@@ -1,0 +1,16 @@
+"FSE":
+  url: https://dl.acm.org/conference/fse
+  color: "#529CCA"
+
+"ICSE":
+  url: http://www.icse-conferences.org/
+  color: "#4DAB9A"
+
+"S&P":
+  color: "#9A6DD7"
+
+"SEC":
+  color: "#FFA344"
+
+"CCS":
+  color: "#FF7369"
