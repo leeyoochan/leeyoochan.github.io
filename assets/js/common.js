@@ -8,5 +8,4 @@ $(document).ready(function() {
         $(this).parent().parent().find(".abstract.hidden.open").toggleClass('open');
     });
     $('a').removeClass('waves-effect waves-light');
-    $('div.author').html($('div.author').html().replace('Suhwan Song', '<u>Suhwan Song</u>'));
 });

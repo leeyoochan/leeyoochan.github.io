@@ -1,16 +1,6 @@
-"FSE":
-  url: https://dl.acm.org/conference/fse
-  color: "#529CCA"
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
 
-"ICSE":
-  url: http://www.icse-conferences.org/
-  color: "#4DAB9A"
-
-"S&P":
-  color: "#9A6DD7"
-
-"SEC":
-  color: "#FFA344"
-
-"CCS":
-  color: "#FF7369"
+"PhysRev":
+  url: https://journals.aps.org/

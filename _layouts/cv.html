@@ -19,8 +19,6 @@ layout: default
                     {% include cv/list.html %}
                   {% elsif entry.type == "map" %}
                     {% include cv/map.html %}
-                  {% elsif entry.type == "html" %}
-                    {% include {{ entry.contents }} %}
                   {% elsif entry.type == "nested_list" %}
                     {% include cv/nested_list.html %}
                   {% elsif entry.type == "time_table" %}
@@ -31,7 +29,7 @@ layout: default
                   </div>
                 </div>
               {% endfor %}
-             </div>
+              </div>
           </article>
 
         </div>

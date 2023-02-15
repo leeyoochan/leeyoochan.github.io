@@ -2,17 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description:
-nav: false
-nav_order: 3
+description: Materials for courses you taught. Replace this text with your description.
+nav: true
+nav_order: 5
 ---
 
-##### Teaching Assistant
-- [2022 Fall] Cyber Security and Blockchain, Seoul National University
-- [2022 Fall] Software and System Security, Seoul National University
-- [2021 Fall] Cyber Security and Blockchain, Seoul National University
-- [2021 Spring] Introduction to Data Structures, Seoul National University
-- [2020 Fall] Introduction to Data Structures, Seoul National University
-- [2020 Fall] Cyber Security and Blockchain, Seoul National University
-- [2020 Spring] Cyber Security and Blockchain, Seoul National University
-- [2019 Fall] Cyber Security and Blockchain, Seoul National University
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+
+Organize your courses by years, topics, or universities, however you like!
