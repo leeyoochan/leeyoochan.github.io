@@ -28,9 +28,10 @@ nav_order: 1
 - The 12th place in Seccon CTF 2017 (GYG), Tokyo, Japan, Jan. 2017<br>
 - The 1st place in Secuinside Capture The Bug (Minionz), Seoul, South Korea, July. 2016<br>
 - The 6th place in Codegate CTF (teambob), Seoul, South Korea, May. 2016<br>
-
+<br>
 <h2 class="award">Award</h2>
-Top 10 in Best Of the Best 4th, Mar. 2016
+Top 10 in Best Of the Best 4th, Mar. 2016<br>
+<br>
 
 <h2 class="year">Reported Vulnerabilities and Exploits (selected)</h2>
 - macOS - Kernel heap overflow leads to Local Privilege Escalation ($34K)<br>
@@ -39,5 +40,6 @@ Top 10 in Best Of the Best 4th, Mar. 2016
 - CVE-2018-4338 : Information Leakage in macOS<br>
 - CVE-2018-4084 : Information Leakage in macOS<br>
 - CVE-2017-7014 : Kernel Code Execution in macOS<br>
+<br>
 
 </div>
