@@ -64,16 +64,15 @@
         - Top 10 in Best Of the Best 4th, Mar. 2016
 
 
-
 - title: Repoted Vulnerabilties (selected)
   type: list
-  contents:
-       - [CVE-2021-31077] macOS - Kernel heap overflow leads to Local Privilege Escalation ($34,000)
-       - Solidly - Drain tremendous funds using invalid type casting ($10,000)
-       - [CVE-2018-4417] Information Leakage in macOS
-       - [CVE-2018-4338] Information Leakage in macOS
-       - [CVE-2018-4084] Information Leakage in macOS
-       - [CVE-2017-7014] Kernel Code Execution in macOS
+  contents: 
+   - CVE-2021-31077: macOS - Kernel heap overflow leads to Local Privilege Escalation ($34,000)
+   - Solidly - Drain tremendous funds using invalid type casting ($10,000)
+   - CVE-2018-4417: Information Leakage in macOS
+   - CVE-2018-4338: Information Leakage in macOS
+   - CVE-2018-4084: Information Leakage in macOS
+   - CVE-2017-7014: Kernel Code Execution in macOS
 
 - title: Other Interests
   type: list
