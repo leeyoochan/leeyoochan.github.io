@@ -2,94 +2,78 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yoochan Lee
     - name: Date of Birth
-      value: 14th March 1879
+      value: 26th October 1992
     - name: Languages
-      value: English, German
+      value: Korean, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+    - title: M.S/Ph.D. Course in Electrical and Computer Engineering
+      institution: Seoul National University, Seoul, South Korea
+      year: 2019 - Now
+    - title: B.S. Department of Compuser Science & Engineering
+      institution: Hanyang University, Seoul, South Korea
+      year: 2012 - 2018
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Intern
+      institution: Raon WhiteHat, Seoul, South Korea
+      year: 2017
+    - title: Intern
+      institution: Naver Labs, Gyeonggi-do, South Korea
+      year: 2016
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+      - The 3rd place in DEFCON 30 CTF (StarBugs), Las Vegas, USA, Aug. 2022
+    - year: 2021
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - The 4th place in DEFCON 29 CTF (StarBugs), Las Vegas, USA, Aug. 2021
+    - year: 2020
       items:
-        - Description 1.
-        - Description 2.
+        - The 11th place in DEFCON 28 CTF (Star-Bugs), Las Vegas, USA, Aug. 2020
+    - year: 2019
+      items:
+        - The 15th place in DEFCON 27 CTF (CGC), Las Vegas, USA, Aug. 2019
+    - year: 2018
+      items:
+        - The 11th place in Seccon CTF (GYG), Tokyo, Japan, Dec. 2018
+        - The 1st place in Cyber Conflict Excercise and Contest 2018 (GYG), Jeju, South Korea, Oct. 2018
+        - The 13th place in DEFCON 26 CTF (C.G.K.S), Las Vegas, USA, Aug. 2018
+        - The 8th place in Midnight Sun CTF, Stockholm, Sweden, June. 2018
+        - The 9th place in Codegate CTF (GYG), Seoul, South Korea, Apr. 2018
+    - year: 2017
+      items:
+        - The 5th place in Cyber Conflict Excercise and Contest 2017 (GYG), Seoul, South Korea, Nov. 2017
+        - The 3rd place in Belluminar POC 2017, Seoul, South Korea, Nov. 2017
+        - The 9th place in DEFCON 25 CTF (RRR), Las Vegas, USA, Aug. 2017
+        - Encouragement Award in Samsung CTF 2017, Seoul, South Korea, Aug. 2017
+        - The 6th place in Nuit Du Hack 2017 (GYG), Paris, France, June. 2017
+        - The 12th place in Seccon CTF 2017 (GYG), Tokyo, Japan, Jan. 2017
+    - year: 2016
+      items:
+        - The 1st place in Secuinside Capture The Bug (Minionz), Seoul, South Korea, July. 2016
+        - The 6th place in Codegate CTF (teambob), Seoul, South Korea, May. 2016
+        - Top 10 in Best Of the Best 4th, Mar. 2016
+
+
+
+- title: Repoted Vulnerabilties (selected)
+  type: list
+  contents:
+       - [CVE-2021-31077] macOS - Kernel heap overflow leads to Local Privilege Escalation ($34,000)
+       - Solidly - Drain tremendous funds using invalid type casting ($10,000)
+       - [CVE-2018-4417] Information Leakage in macOS
+       - [CVE-2018-4338] Information Leakage in macOS
+       - [CVE-2018-4084] Information Leakage in macOS
+       - [CVE-2017-7014] Kernel Code Execution in macOS
 
 - title: Other Interests
   type: list
