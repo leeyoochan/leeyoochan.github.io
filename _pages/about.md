@@ -17,6 +17,8 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a Ph.D student in _department of electrical & computer engineering_ at [Seoul National Univerity](https://en.snu.ac.kr/index.html).
 
-My advisor is Byoungyoung Lee [@lifeasageek](https://lifeasageek.github.io/), my research area is system and software security.
-I focus on combining exploitation technique and side-channel attacks. 
+My advisor is Byoungyoung Lee [@lifeasageek](https://lifeasageek.github.io/).
+In general, my research area is \textbf{System and Software Security}.
+I focus on evolutionizing exploition technique such as combining exploitation technique and side-channel attacks.
+I mainly focus on doing research that is of interest to academia and industry.
 
