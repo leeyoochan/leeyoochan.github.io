@@ -1,17 +1,20 @@
 "HITB":
-  color: "#DE9D14"
+  color: "#F59E0B"
 
 "BlackHat":
-  color: "#529CCA"
+  color: "#374151"
 
 "EuroSys":
-  color: "#4DAB9A"
+  color: "#06B6D4" 
 
 "S&P":
-  color: "#9A6DD7"
+  color: "#8B5CF6"
 
 "SEC":
-  color: "#FFA344"
+  color: "#3B82F6" 
 
 "CCS":
-  color: "#FF7369"
+  color: "#F43F5E"
+
+"NDSS":
+  color: "#10B981"
