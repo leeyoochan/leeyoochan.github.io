@@ -750,7 +750,7 @@ progress {
 
 .bibliography .title {
   font-weight: 700 !important;          /* 굵기는 무조건 굵게 */
-  font-size: 1.15rem !important;        /* 글자 크기 살짝 키움 */
+  font-size: 1.0rem !important;        /* 글자 크기 살짝 키움 */
   
   /* 핵심: 고정된 색(#000) 대신 테마의 기본 글자색 변수를 사용 */
   color: var(--global-text-color) !important; 
