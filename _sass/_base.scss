@@ -725,3 +725,25 @@ progress {
      display: block;
      height: inherit;
  }
+
+ @media (min-width: 768px) {
+  /* 1. Flexbox 모드 켜기 (기존 그리드 무시) */
+  .bibliography .row {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+
+  /* 2. 왼쪽 배지(NDSS) 칸: 120px로 고정! (늘어나지 마) */
+  .bibliography .abbr {
+    flex: 0 0 120px !important;
+    max-width: 120px !important;
+    min-width: 120px !important;
+    padding-right: 15px; /* 배지와 제목 사이 간격 */
+  }
+
+  /* 3. 오른쪽 제목 칸: 남은 공간 몽땅 차지 */
+  .bibliography .col-sm-8 {
+    flex: 1 1 auto !important;
+    max-width: 100% !important;
+  }
+}
