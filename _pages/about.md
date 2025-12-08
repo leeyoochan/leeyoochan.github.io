@@ -16,7 +16,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a Postdoc at [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/), with a Ph.D. from the Seoul National University.
-My work aims to harden systems against real-world threats by bridging the gap between offensive research and defensive mechanisms.
+My work forcuses on reinforce overall system security through offensive security. 
 
-I am always open to discussing new ideas and collaborations. Feel free to reach out via email.
-
+I am always open to exploring new ideas and happy to collaborate with researchers from various background.
