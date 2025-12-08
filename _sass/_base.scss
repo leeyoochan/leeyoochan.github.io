@@ -747,3 +747,14 @@ progress {
     max-width: 100% !important;
   }
 }
+
+.bibliography .title {
+  font-weight: 700 !important;          /* 굵기는 무조건 굵게 */
+  font-size: 1.15rem !important;        /* 글자 크기 살짝 키움 */
+  
+  /* 핵심: 고정된 색(#000) 대신 테마의 기본 글자색 변수를 사용 */
+  color: var(--global-text-color) !important; 
+  
+  /* (선택) 제목과 저자 사이 간격 벌리기 */
+  margin-bottom: 5px;   
+}
