@@ -16,6 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a Postdoc at [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/), with a Ph.D. from the Seoul National University.
+
 My research advances offensive security methodologies to fundamentally strengthen system resilience. 
 By developing novel exploitation techniques, I aim to uncover critical 'blind spots' that defensive-centric approaches often overlook.
 
