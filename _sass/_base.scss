@@ -473,7 +473,7 @@ footer.sticky-bottom {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     transform: translateY(-2px);
   }
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.25rem;
   .links {
     margin-bottom: 0;
   }
@@ -665,6 +665,7 @@ html.transition *:after {
     padding-bottom: 0.5rem;
     border-bottom: 3px solid var(--global-theme-color);
     display: inline-block;
+    margin-top: 2rem;
     margin-bottom: 1rem;
   }
 }
