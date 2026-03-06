@@ -21,6 +21,8 @@ My research improves system security by advancing exploit techniques that reveal
 By developing principled methods to assess exploitability, I enable defenders to prioritize remediation where it matters most. 
 My work spans kernel exploitation, side-channel--assisted attacks, and data-oriented programming.
 
+I am always open to exploring new ideas and happy to collaborate with researchers from various backgrounds.
+
 <div style="clear: both;"></div>
 
 <div class="alert alert-primary" role="alert">
