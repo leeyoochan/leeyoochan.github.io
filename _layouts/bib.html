@@ -188,7 +188,7 @@
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
           </div>
-          {% if site.badges %}
+          {% if site.badges and entry.doi or entry.altmetric or entry.pmid or entry.dimensions %}
           <div class="badges">
           {%- if site.badges.altmetric_badge or entry.altmetric %}
             <span class="altmetric-embed" {% if entry.doi %}data-doi="{{ entry.doi }}"{% else %}data-altmetric-id="{{ entry.altmetric }}"{% endif %} data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
