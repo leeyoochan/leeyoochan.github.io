@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc @ <a href="https://www.mpi-sp.org/">Max Planck Institute for Security and Privacy</a>
+subtitle: 
 
 profile:
   align: right
