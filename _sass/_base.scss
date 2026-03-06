@@ -21,6 +21,10 @@ table {
   }
 }
 
+.news .table {
+  margin-bottom: 0;
+}
+
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
@@ -469,6 +473,10 @@ footer.sticky-bottom {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     transform: translateY(-2px);
   }
+}
+
+.publications ol.bibliography li:last-child {
+  margin-bottom: 0;
 }
 
 .publications {
