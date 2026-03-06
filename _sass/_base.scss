@@ -473,10 +473,7 @@ footer.sticky-bottom {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     transform: translateY(-2px);
   }
-  .row {
-    margin-bottom: 0;
-  }
-  .links {
+  > .row > div:last-child > :last-child {
     margin-bottom: 0;
   }
 }
