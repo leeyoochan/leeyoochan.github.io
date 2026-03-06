@@ -15,9 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Postdoc at [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/), with a Ph.D. from the Seoul National University.
+I'm a Postdoc at Max Planck Institute for Security and Privacy, with a Ph.D. from Seoul National University.
 
-My research advances offensive security methodologies to fundamentally strengthen system resilience. 
-By developing novel exploitation techniques, I aim to uncover critical 'blind spots' that defensive-centric approaches often overlook.
+My research improves system security by advancing exploit techniques that reveal the true severity of software vulnerabilities. 
+By developing principled methods to assess exploitability, I enable defenders to prioritize remediation where it matters most. 
+My work spans kernel exploitation, side-channel--assisted attacks, and data-oriented programming.
 
-I am always open to exploring new ideas and happy to collaborate with researchers from various background.
+**I am on the academic job market for the 2026-2027 cycle, seeking tenure-track faculty positions.** I am always open to exploring new ideas and happy to collaborate with researchers from various backgrounds.
