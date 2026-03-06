@@ -463,6 +463,14 @@ footer.sticky-bottom {
 
 // Publications
 
+.publications .card {
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  &:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-2px);
+  }
+}
+
 .publications {
   margin-top: 2rem;
   h1 {
@@ -644,6 +652,15 @@ html.transition *:after {
 }
 
 // Extra Markdown style (post Customization)
+.post {
+  h2 {
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid var(--global-theme-color);
+    display: inline-block;
+    margin-bottom: 1rem;
+  }
+}
+
 .post{
   .post-meta{
     color: var(--global-text-color-light);
