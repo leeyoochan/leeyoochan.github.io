@@ -21,7 +21,7 @@ My research improves system security by advancing exploit techniques that reveal
 By developing principled methods to assess exploitability, I enable defenders to prioritize remediation where it matters most.
 My work spans kernel exploitation, side-channel--assisted attacks, and data-oriented programming.
 
-<h5 style="margin-top: 1.5rem; margin-bottom: 0.75rem; color: var(--global-theme-color);">Research Interests</h5>
+<h5 style="margin-top: 1.0rem; margin-bottom: 0.75rem; color: var(--global-theme-color);">Research Interests</h5>
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.5rem;">
   <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">System Security</span>
