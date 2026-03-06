@@ -24,11 +24,10 @@ My work spans kernel exploitation, side-channel--assisted attacks, and data-orie
 <h5 style="margin-top: 1.5rem; margin-bottom: 0.75rem; color: var(--global-theme-color);">Research Interests</h5>
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.5rem;">
+  <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">System Security</span>
   <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">Kernel Exploitation</span>
-  <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">Side-Channel Attacks</span>
-  <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">Data-Oriented Programming</span>
-  <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">OS Security</span>
   <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">Vulnerability Assessment</span>
+  <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">OS Security</span>
 </div>
 
 I am always open to exploring new ideas and happy to collaborate with researchers from various backgrounds.
