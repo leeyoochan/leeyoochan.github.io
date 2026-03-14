@@ -31,5 +31,5 @@ My work spans kernel exploitation, side-channel--assisted attacks, and data-orie
 </div>
 
 <div class="alert alert-primary" role="alert" style="overflow: hidden;">
-  📢 I am on the <strong>academic job market</strong> for the 2026-2027 cycle, seeking tenure-track faculty positions. Please feel free to reach out!
+  📢 I am on the <strong style="color: var(--global-theme-color);">academic job market</strong> for the 2026-2027 cycle, seeking tenure-track faculty positions. Please feel free to reach out!
 </div>
