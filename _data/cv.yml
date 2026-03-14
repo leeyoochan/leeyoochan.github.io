@@ -46,21 +46,14 @@
   type: time_table
   contents:
     - title: Mentor
-      institution: Best of the Best (BoB) — Government-funded cybersecurity education program, South Korea
+      institution: Best of the Best (BoB), South Korea
       year: 2023.07 - 2026.02
-      description:
-        - Mentored top-tier security students on kernel exploitation and guided responsible vulnerability disclosure (e.g., Linux, NVIDIA).
     - title: Lead Mentor
-      institution: White Hat School — Government-funded cybersecurity education program, South Korea
+      institution: White Hat School, South Korea
       year: 2023.09 - 2025.12
-      description:
-        - Designed and delivered a systems security curriculum, including lectures and hands-on labs.
-    - title: Teaching Assistant — Programming Methodology (430.211)
+    - title: Teaching Assistant
       institution: Seoul National University
-      year: Spring 2025
-    - title: Teaching Assistant — Cyber Security and Blockchain (M2177.006300)
-      institution: Seoul National University
-      year: Spring 2020, Fall 2020, Fall 2021, Fall 2022
+      year: 2020 - 2025
 
 - title: Honors and Awards
   type: time_table
