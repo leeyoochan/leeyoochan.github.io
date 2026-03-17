@@ -29,7 +29,7 @@
               <em>{{ talk.venue }}</em>
             </div>
             <div class="author">
-              {%- if talk.presenter %}<strong>{{ talk.presenter }}</strong> · {% endif %}{{ talk.location }}
+              {%- if talk.presenter %}Presenter: <strong>{{ talk.presenter }}</strong> · {% endif %}{{ talk.location }}
             </div>
             {%- if talk.slides or talk.video %}
             <div class="links" style="margin-top: 0.5rem;">
@@ -73,7 +73,7 @@
               <em>{{ talk.venue }}</em>
             </div>
             <div class="author">
-              {%- if talk.presenter %}<strong>{{ talk.presenter }}</strong> · {% endif %}{{ talk.location }}
+              {%- if talk.presenter %}Presenter: <strong>{{ talk.presenter }}</strong> · {% endif %}{{ talk.location }}
             </div>
             {%- if talk.slides or talk.video %}
             <div class="links" style="margin-top: 0.5rem;">
