@@ -31,9 +31,10 @@
             <div class="author">
               {{ talk.location }}
             </div>
-            {%- if talk.slides %}
+            {%- if talk.slides or talk.video %}
             <div class="links" style="margin-top: 0.5rem;">
-              <a class="btn btn-sm z-depth-0" href="{{ talk.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>
+              {%- if talk.slides %}<a class="btn btn-sm z-depth-0" href="{{ talk.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>{%- endif %}
+              {%- if talk.video %}<a class="btn btn-sm z-depth-0" href="{{ talk.video }}" target="_blank" rel="noopener noreferrer">Video</a>{%- endif %}
             </div>
             {%- endif %}
           </div>
@@ -74,9 +75,10 @@
             <div class="author">
               {{ talk.location }}
             </div>
-            {%- if talk.slides %}
+            {%- if talk.slides or talk.video %}
             <div class="links" style="margin-top: 0.5rem;">
-              <a class="btn btn-sm z-depth-0" href="{{ talk.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>
+              {%- if talk.slides %}<a class="btn btn-sm z-depth-0" href="{{ talk.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>{%- endif %}
+              {%- if talk.video %}<a class="btn btn-sm z-depth-0" href="{{ talk.video }}" target="_blank" rel="noopener noreferrer">Video</a>{%- endif %}
             </div>
             {%- endif %}
           </div>
