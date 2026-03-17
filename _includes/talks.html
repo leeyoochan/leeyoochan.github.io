@@ -1,0 +1,35 @@
+<div class="publications">
+  <ol class="bibliography">
+    {%- assign sorted_talks = site.data.talks | sort: "year" | reverse -%}
+    {%- for talk in sorted_talks %}
+    <li>
+      <div class="card p-3 mb-3">
+        <div class="row">
+          <div class="col-sm-2 abbr">
+            {%- assign venue_short = talk.venue | split: ' ' | first -%}
+            {%- if site.data.venues[venue_short] -%}
+              <abbr class="badge" style="background-color:{{ site.data.venues[venue_short].color }}">{{ venue_short }}</abbr>
+            {%- else -%}
+              <abbr class="badge">{{ venue_short }}</abbr>
+            {%- endif -%}
+          </div>
+          <div class="col-sm-8">
+            <div class="title">
+              {{ talk.title }}
+              {%- if talk.type == "invited" %}
+                <span class="badge" style="background-color: var(--global-theme-color); color: white; font-size: 0.7em; vertical-align: middle; margin-left: 0.3em;">Invited</span>
+              {%- endif %}
+            </div>
+            <div class="periodical">
+              <em>{{ talk.venue }}</em>
+            </div>
+            <div class="author">
+              {{ talk.location }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    {%- endfor %}
+  </ol>
+</div>

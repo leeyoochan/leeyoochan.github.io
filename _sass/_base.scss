@@ -125,6 +125,13 @@ blockquote {
   }
 }
 
+.post-header .post-title {
+  display: inline-block;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid var(--global-theme-color);
+  margin-bottom: 1rem;
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
@@ -257,7 +264,7 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
     a {
       i::before {
         color: var(--global-text-color);

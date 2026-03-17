@@ -52,6 +52,12 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
+          <!-- Talks -->
+          {% if page.talks -%}
+            <h2>Talks</h2>
+            {%- include talks.html %}
+          {%- endif %}
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">

@@ -14,7 +14,7 @@
     - title: M.S/Ph.D. Course in Electrical and Computer Engineering
       institution: Seoul National University, Seoul, South Korea
       year: 2019.09 - 2025.08
-    - title: B.S. Department of Compuser Science & Engineering
+    - title: B.S. Department of Computer Science & Engineering
       institution: Hanyang University, Seoul, South Korea
       year: 2012.03 - 2018.02
 - title: Academic Appointments
@@ -92,7 +92,7 @@
         - Top 10 in Best Of the Best 4th, Mar. 2016
 
 
-- title: Repoted Vulnerabilties (selected)
+- title: Reported Vulnerabilities (selected)
   type: list
   contents: 
    - macOS - Kernel heap overflow leads to Local Privilege Escalation (CVE-2021-31077, $34,000)
@@ -100,4 +100,4 @@
    - macOS - Kernel Information Leakage (CVE-2018-4417, $1,500)
    - macOS - Kernel Information Leakage (CVE-2018-4338, $2,000)
    - macOS - Kernel Information Leakage (CVE-2018-4084)
-   - macOS - Abitrary Kernel Code Execution (CVE-2017-7014)
+   - macOS - Arbitrary Kernel Code Execution (CVE-2017-7014)
