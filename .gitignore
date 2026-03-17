@@ -1,3 +1,5 @@
 *.swo
 *.swp
 .jekyll-cache/
+_site/
+CV/
