@@ -31,6 +31,11 @@
             <div class="author">
               {{ talk.location }}
             </div>
+            {%- if talk.slides %}
+            <div class="links" style="margin-top: 0.5rem;">
+              <a class="btn btn-sm z-depth-0" href="{{ talk.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>
+            </div>
+            {%- endif %}
           </div>
         </div>
       </div>
@@ -69,6 +74,11 @@
             <div class="author">
               {{ talk.location }}
             </div>
+            {%- if talk.slides %}
+            <div class="links" style="margin-top: 0.5rem;">
+              <a class="btn btn-sm z-depth-0" href="{{ talk.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>
+            </div>
+            {%- endif %}
           </div>
         </div>
       </div>

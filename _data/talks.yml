@@ -3,15 +3,18 @@
   year: 2020
   location: "Las Vegas, USA"
   category: industry
+  slides: "https://i.blackhat.com/USA-20/Thursday/us-20-Lee-Exploiting-Kernel-Races-Through-Taming-Thread-Interleaving.pdf"
 
 - title: "Perfect Spray: A Journey From Finding a New Type of Logical Flaw at Linux Kernel To Developing a New Heap Exploitation Technique"
   venue: BlackHat Europe 2022
   year: 2022
   location: "London, UK"
   category: industry
+  slides: "https://i.blackhat.com/EU-22/Wednesday-Briefings/EU-22-Lee-Perfect-Spray.pdf"
 
 - title: "Privilege Escalation Exploit using DOP in x86-64 macOS"
   venue: HITB Amsterdam 2023
   year: 2023
   location: "Amsterdam, Netherlands"
   category: industry
+  slides: "https://conference.hitb.org/hitbsecconf2023ams/materials/D2T2%20-%20Privilege%20Escalation%20Using%20DOP%20in%20MacOS%20x86-64%20-%20Yoochan%20Lee.pdf"
