@@ -612,6 +612,13 @@ footer.sticky-bottom {
           font-size: 1em;
           line-height: 1.4em;
           padding: 10px;
+          overflow-x: auto;
+          white-space: pre;
+          max-width: 100%;
+        }
+        figure.highlight {
+          max-width: 100%;
+          overflow-x: auto;
         }
       }
       .hidden.open {
