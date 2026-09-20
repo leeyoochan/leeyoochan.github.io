@@ -22,15 +22,15 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a Postdoc at [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/), with a Ph.D. from [Seoul National University](https://en.snu.ac.kr/).
 
-My research improves system security by advancing exploit techniques that reveal the true severity of software vulnerabilities.
-By developing principled methods to assess exploitability, I enable defenders to prioritize remediation where it matters most.
-My work spans kernel exploitation, side-channel--assisted attacks, and data-oriented programming.
+My research is in systems security, with a focus on the Linux kernel.
+I uncover the building blocks that systems unintentionally provide to attackers and develop defenses that eliminate them.
+My goal is to make vulnerabilities unexploitable in practice.
 
 <h5 style="margin-top: 0.5rem; margin-bottom: 0.75rem; color: var(--global-theme-color);">Research Interests</h5>
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.5rem;">
-  <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">System Security</span>
+  <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">Systems Security</span>
   <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">Kernel Exploitation</span>
   <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">Vulnerability Assessment</span>
-  <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">OS Security</span>
+  <span class="badge" style="background-color: var(--global-theme-color); color: white; padding: 0.35em 0.65em; font-size: 0.85em;">Kernel Defenses</span>
 </div>

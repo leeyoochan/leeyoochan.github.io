@@ -8,11 +8,11 @@ middle_name:
 last_name: Lee
 email: yoochan.lee@mpi-sp.org
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoctoral Researcher at Max Planck Institute for Security and Privacy. Systems security, kernel exploitation, and offensive security research.
+  Postdoctoral Researcher at Max Planck Institute for Security and Privacy. I uncover the building blocks of practical Linux kernel exploitation and develop defenses that eliminate them.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: system security, kernel exploitation, vulnerability assessment, offensive security, operating system security
+keywords: systems security, kernel exploitation, kernel defenses, vulnerability assessment, operating system security
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
